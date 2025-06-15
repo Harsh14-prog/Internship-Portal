@@ -21,6 +21,7 @@ A multi-page internship portal built with **React.js**, **Redux Toolkit**, and *
 
 Internship-Portal/
 ├── public/
+├── screenshots/
 ├── src/
 │ ├── components/ # Reusable UI components
 │ ├── features/ # Redux slices
@@ -53,12 +54,28 @@ cd Internship-Portal
 npm install
 npm run dev
 
+
+
 ```
+
+## Screenshots
+
+### Landing Page
+![Landing Page](./Screenshots/Landing.png)
+
+### Internship Listings
+![Internship Listings](./screenshots/Listing.png)
+
+###  Application Form
+![Application Form](./screenshots/contact.png)
+
+###  Application Form
+![Application Form](./screenshots/details.png)
+
+---
 
 ## Contact
 
 - LinkedIn: [Harshad Khambe](https://www.linkedin.com/in/harshad-khambe-33b06a255/)
 - GitHub: [@Harsh14-prog](https://github.com/Harsh14-prog)
 - Email: harshadkhambe14@gmail.com
-
-
