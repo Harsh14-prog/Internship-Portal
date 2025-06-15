@@ -1,7 +1,7 @@
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { setFilter, setTypeFilter } from "../Redux/InternshipsSlice";
-import InternshipCard from "../components/InternshipCard";
+import InternshipCard from "../components/Internshipcard";
 import Input from "../components/Input";
 import { motion } from "framer-motion";
 import DropdownFilter from '../components/DropdownFilter'; 

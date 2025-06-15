@@ -9,7 +9,7 @@ import {
 } from 'lucide-react';
 import Button from './Button';
 
-const InternshipCard = ({ internship, index }) => {
+const Internshipcard = ({ internship, index }) => {
   const {
     id,
     title,
@@ -95,4 +95,4 @@ const InternshipCard = ({ internship, index }) => {
   );
 };
 
-export default InternshipCard;
+export default Internshipcard;
