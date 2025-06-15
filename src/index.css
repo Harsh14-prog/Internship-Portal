@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+
+:root {
+  --btn-primary: #4f46e5;
+  --btn-primary-hover: #4338ca;
+  --btn-accent: #10b981;
+  --btn-accent-hover: #059669;
+}
+
+html, body {
+  @apply font-sans antialiased scroll-smooth text-slate-800 bg-white;
+}
