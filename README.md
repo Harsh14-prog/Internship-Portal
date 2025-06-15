@@ -64,13 +64,13 @@ npm run dev
 ![Landing Page](./Screenshots/Landing.png)
 
 ### Internship Listings
-![Internship Listings](./screenshots/Listing.png)
+![Internship Listings](./Screenshots/Listing.png)
 
 ###  Application Form
-![Application Form](./screenshots/contact.png)
+![Contact](./Screenshots/contact.png)
 
 ###  Application Form
-![Application Form](./screenshots/details.png)
+![Internship Details](./Screenshots/details.png)
 
 ---
 
